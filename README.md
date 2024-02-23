@@ -1,1 +1,1 @@
-![Alt text](images/peoject.jpg "fiker travel")
+![Alt text](images/project.jpg "fiker travel")
